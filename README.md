@@ -1,1 +1,1 @@
-# Titanic_Passengers_Survival_Prediction
+# Titanic_Passengers_Survival_Prediction using Decision tree algorithm
